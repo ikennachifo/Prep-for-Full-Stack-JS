@@ -17,7 +17,7 @@
   - [ ] [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
   - [ ] [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
   - [ ] ~~[Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)~~
-  - [ ] [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+  - [ ] ~~[ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)~~
 - [The Promise of a Burger Party - Mariko Kosaka](https://kosamari.com/notes/the-promise-of-a-burger-party)
 - [JS concepts you should know](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
 
@@ -33,7 +33,7 @@
 ### Data Structures and Algorithms
 
 - [Algorithms and Data Structures in JS with Bianca Gandolfo](https://frontendmasters.com/workshops/algorithms-data-structures-js/)
-- [Data Structures – basecs – Medium](https://medium.com/basecs/tagged/data-structures)
+- ~~[Data Structures – basecs – Medium](https://medium.com/basecs/tagged/data-structures)~~
 - [Algorithms – basecs – Medium](https://medium.com/basecs/tagged/algorithms)
 
 ### Learn a Frontend Framework
